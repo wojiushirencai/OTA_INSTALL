@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://120.24.14.180/uploadFiles/files/apps/ios/opencv-facerec1.0.ipa</string>
+					<string>https://github.com/wojiushirencai/OTA_INSTALL/blob/master/opencv-facerec1.0.ipa?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,17 +19,17 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://120.24.14.180/uploadFiles/files/apps/ios/icon-57.png</string>
+					<string>https://raw.githubusercontent.com/wojiushirencai/OTA_INSTALL/master/Icon-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>md5</key>
-					<string>97E67F9DBED661C87115260DDCF811E9</string>
+					<string>d8ed44aa71229b5379b2604798acfa3f</string>
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://120.24.14.180/uploadFiles/files/apps/ios/icon-512.png</string>
+					<string>https://raw.githubusercontent.com/wojiushirencai/OTA_INSTALL/master/Icon-512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
