@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/wojiushirencai/OTA_INSTALL/blob/master/MSCDemo.ipa?raw=true</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/wojiushirencai/OTA_INSTALL/master/Icon-57.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>md5</key>
+					<string>d8ed44aa71229b5379b2604798acfa3f</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/wojiushirencai/OTA_INSTALL/master/Icon-512.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.globalroam.ios.iflytek</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>facedetect</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
